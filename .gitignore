@@ -1,0 +1,19 @@
+# Database dump / local database files
+database.sql
+*.sql
+*.sqlite
+*.sqlite3
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local server files
+xampp/
